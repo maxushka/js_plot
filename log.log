@@ -1,0 +1,67 @@
+[16.03.2021 09:45:58] - Main           : =================== INIT MAIN ===================
+[16.03.2021 09:46:39] - Main           : =================== INIT MAIN ===================
+[16.03.2021 09:47:00] - Main           : =================== INIT MAIN ===================
+[16.03.2021 09:47:00] - WebSocket      : Running, host: localhost, port: 8765
+[16.03.2021 09:47:33] - WebSocket      : New client connected: ('::1', 53087, 0, 0)
+[16.03.2021 09:47:33] - WebSocket      : Client ('::1', 53087, 0, 0) disconnect
+[16.03.2021 09:49:49] - WebSocket      : New client connected: ('::1', 53136, 0, 0)
+[16.03.2021 09:49:49] - WebSocket      : Client ('::1', 53136, 0, 0) disconnect
+[16.03.2021 09:52:24] - Main           : =================== INIT MAIN ===================
+[16.03.2021 09:52:25] - WebSocket      : Running, host: localhost, port: 8765
+[16.03.2021 09:52:25] - WebSocket      : New client connected: ('::1', 53358, 0, 0)
+[16.03.2021 09:52:25] - WebSocket      : Client ('::1', 53358, 0, 0) disconnect
+[16.03.2021 09:53:00] - WebSocket      : New client connected: ('::1', 53396, 0, 0)
+[16.03.2021 09:53:00] - WebSocket      : Client ('::1', 53396, 0, 0) disconnect
+[16.03.2021 09:56:59] - Main           : =================== INIT MAIN ===================
+[16.03.2021 09:56:59] - WebSocket      : Running, host: localhost, port: 8765
+[16.03.2021 09:57:03] - WebSocket      : New client connected: ('::1', 53515, 0, 0)
+[16.03.2021 10:14:09] - WebSocket      : Client ('::1', 53515, 0, 0) disconnect
+[16.03.2021 10:14:10] - WebSocket      : New client connected: ('::1', 54091, 0, 0)
+[16.03.2021 10:16:43] - WebSocket      : Client ('::1', 54091, 0, 0) disconnect
+[16.03.2021 10:16:43] - WebSocket      : New client connected: ('::1', 54177, 0, 0)
+[16.03.2021 10:20:57] - WebSocket      : Client ('::1', 54177, 0, 0) disconnect
+[16.03.2021 10:21:00] - Main           : =================== INIT MAIN ===================
+[16.03.2021 10:21:00] - WebSocket      : Running, host: localhost, port: 8765
+[16.03.2021 10:21:03] - WebSocket      : New client connected: ('::1', 54205, 0, 0)
+[16.03.2021 10:21:44] - WebSocket      : Client ('::1', 54205, 0, 0) disconnect
+[16.03.2021 10:21:44] - WebSocket      : New client connected: ('::1', 54224, 0, 0)
+[16.03.2021 10:22:27] - WebSocket      : Client ('::1', 54224, 0, 0) disconnect
+[16.03.2021 10:22:29] - Main           : =================== INIT MAIN ===================
+[16.03.2021 10:22:29] - WebSocket      : Running, host: localhost, port: 8765
+[16.03.2021 10:23:53] - Main           : =================== INIT MAIN ===================
+[16.03.2021 10:23:53] - WebSocket      : Running, host: localhost, port: 8765
+[16.03.2021 10:24:15] - Main           : =================== INIT MAIN ===================
+[16.03.2021 10:24:15] - WebSocket      : Running, host: localhost, port: 8765
+[16.03.2021 10:24:22] - WebSocket      : New client connected: ('::1', 54270, 0, 0)
+[16.03.2021 10:25:53] - WebSocket      : Client ('::1', 54270, 0, 0) disconnect
+[16.03.2021 10:26:12] - Main           : =================== INIT MAIN ===================
+[16.03.2021 10:26:12] - WebSocket      : Running, host: localhost, port: 8765
+[16.03.2021 10:27:09] - Main           : =================== INIT MAIN ===================
+[16.03.2021 10:27:09] - WebSocket      : Running, host: localhost, port: 8765
+[16.03.2021 10:27:24] - WebSocket      : New client connected: ('::1', 54365, 0, 0)
+[16.03.2021 10:29:12] - WebSocket      : Client ('::1', 54365, 0, 0) disconnect
+[16.03.2021 10:29:14] - Main           : =================== INIT MAIN ===================
+[16.03.2021 10:29:14] - WebSocket      : Running, host: localhost, port: 8765
+[16.03.2021 10:29:20] - WebSocket      : New client connected: ('::1', 54425, 0, 0)
+[16.03.2021 10:30:24] - WebSocket      : Client ('::1', 54425, 0, 0) disconnect
+[16.03.2021 10:30:24] - WebSocket      : New client connected: ('::1', 54459, 0, 0)
+[16.03.2021 10:32:16] - WebSocket      : Client ('::1', 54459, 0, 0) disconnect
+[16.03.2021 10:32:18] - Main           : =================== INIT MAIN ===================
+[16.03.2021 10:32:18] - WebSocket      : Running, host: localhost, port: 8765
+[16.03.2021 10:32:25] - WebSocket      : New client connected: ('::1', 54526, 0, 0)
+[16.03.2021 10:34:03] - WebSocket      : Client ('::1', 54526, 0, 0) disconnect
+[16.03.2021 10:34:03] - WebSocket      : New client connected: ('::1', 54608, 0, 0)
+[16.03.2021 10:35:24] - WebSocket      : Client ('::1', 54608, 0, 0) disconnect
+[16.03.2021 10:35:25] - WebSocket      : New client connected: ('::1', 54650, 0, 0)
+[16.03.2021 10:41:28] - WebSocket      : Client ('::1', 54650, 0, 0) disconnect
+[16.03.2021 10:41:29] - WebSocket      : New client connected: ('::1', 54842, 0, 0)
+[16.03.2021 10:42:02] - WebSocket      : Client ('::1', 54842, 0, 0) disconnect
+[16.03.2021 10:42:27] - WebSocket      : New client connected: ('::1', 54870, 0, 0)
+[16.03.2021 10:43:39] - WebSocket      : Client ('::1', 54870, 0, 0) disconnect
+[16.03.2021 10:44:09] - WebSocket      : New client connected: ('::1', 54943, 0, 0)
+[16.03.2021 10:46:17] - WebSocket      : Client ('::1', 54943, 0, 0) disconnect
+[16.03.2021 10:46:19] - Main           : =================== INIT MAIN ===================
+[16.03.2021 10:46:19] - WebSocket      : Running, host: localhost, port: 8765
+[16.03.2021 10:46:26] - WebSocket      : New client connected: ('::1', 55075, 0, 0)
+[16.03.2021 11:21:27] - WebSocket      : Client ('::1', 55075, 0, 0) disconnect
+[16.03.2021 11:21:28] - WebSocket      : New client connected: ('::1', 56638, 0, 0)

@@ -1,0 +1,10 @@
+{
+	"ws":{
+		"host":"localhost",
+		"port":8765
+	},
+	"http":{
+		"host":"localhost",
+		"port":"8080"
+	}
+}
